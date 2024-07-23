@@ -29,3 +29,8 @@ jobs:
           type: 'zip'
           filename: 'pack.zip'
           exclusions: '*.git* README.md'
+      - name: Upload Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "pack.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
