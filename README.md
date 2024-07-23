@@ -46,12 +46,18 @@ Ensuite, vous pouvez pousser les modifications vers le dépôt GitHub.
 
 Pour ce faire, retournez dans le terminal que vous avez précédemment ouvert et écrivez les commandes suivantes :
 
-sql
-Copy code
+Avant le premier push seulement :
+```
+git config core.hooksPath .hooks
+```
+
+Puis pour chaque push :
+```
 git add .
 git commit -m "message de commit"
 git push origin main
 Après cela, tout devrait être en ordre !
+```
 
 FAQ :
 Q : Que faire si quelque chose ne fonctionne pas ?
