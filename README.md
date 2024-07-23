@@ -47,12 +47,6 @@ Ensuite, vous pouvez push les modifications vers le repository GitHub.
 
 Pour ce faire, retournez dans le terminal que vous avez précédemment ouvert et écrivez les commandes suivantes :
 
-Avant le premier push seulement :
-```
-git config core.hooksPath .hooks
-```
-
-Puis pour chaque push :
 ```
 git add .
 git commit -m "message de commit"
