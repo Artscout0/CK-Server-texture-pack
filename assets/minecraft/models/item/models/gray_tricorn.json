@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/gray_tricorn"
+		"1": "item/model_texture/gray_tricorn"
 	},
 	"elements": [
 		{
