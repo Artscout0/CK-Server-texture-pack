@@ -38,6 +38,7 @@
       {"predicate": {"custom_model_data":32}, "model": "item/models/salmon_trophy"},
       {"predicate": {"custom_model_data":33}, "model": "item/models/street_sign"},
       {"predicate": {"custom_model_data":34}, "model": "item/models/tropical_fish_trophy"},
-      {"predicate": {"custom_model_data":35}, "model": "item/models/wine_bottle"}
+      {"predicate": {"custom_model_data":35}, "model": "item/models/wine_bottle"},
+      {"predicate": {"custom_model_data":36}, "model": "item/models/gray_tricorn"}
     ]
 }
