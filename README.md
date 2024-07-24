@@ -23,6 +23,7 @@ Cela fera en sorte que le 5ème modèle personnalisé pour la teinture verte ser
 N'OUBLIEZ PAS D'AJOUTER UNE VIRGULE À LA FIN DE LA LIGNE PRÉCÉDENTE !
 
 Si vous souhaitez rendre votre modèle personnalisé portable par un joueur, ajoutez-le dans `carved_pumpkin.json` à la place.
+Si vous voulez le rendre mangeable, ce sera dans `golden_carrot.json`.
 
 Après avoir ajouté tous les modèles personnalisés, nous vous recommandons fortement de tester si le pack de textures fonctionne en copiant l'intégralité du dossier que vous avez créé dans le dossier `.minecraft\resourcepacks` (vous pouvez y accéder en ouvrant vos packs de ressources dans Minecraft et en cliquant sur ouvrir le dossier des packs).
 
