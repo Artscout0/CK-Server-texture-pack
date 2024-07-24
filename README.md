@@ -59,12 +59,15 @@ FAQ :
 Q : Que faire si quelque chose ne fonctionne pas ?
 R : Contactez Artscout sur Discord et expliquez-lui le problème. Vous pouvez également lui envoyer un message privé.
 
-
-
-note pour Art: commencer par cd CK(tab)
-le tab c'est la touch il ne faut pas écrire tab
 Q : Le terminal indique qu'il ne connaît pas git.
 R : Installez git, et si cela ne fonctionne pas, reportez-vous à la question 1.
 
 Q : Comment créer un modèle ?
 R : Je ne suis pas un artiste 3D professionnel, donc je ne sais pas comment créer de bons modèles, mais je vous recommande fortement d'utiliser Blockbench et d'expérimenter en créant des modèles dont vous pourriez avoir besoin et en dessinant des textures pour eux.
+
+
+
+
+
+note pour Art: commencer par cd CK(tab)
+le tab c'est la touch il ne faut pas écrire tab
