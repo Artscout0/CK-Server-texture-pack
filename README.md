@@ -59,6 +59,10 @@ FAQ :
 Q : Que faire si quelque chose ne fonctionne pas ?
 R : Contactez Artscout sur Discord et expliquez-lui le problème. Vous pouvez également lui envoyer un message privé.
 
+
+
+note pour Art: commencer par cd CK(tab)
+le tab c'est la touch il ne faut pas écrire tab
 Q : Le terminal indique qu'il ne connaît pas git.
 R : Installez git, et si cela ne fonctionne pas, reportez-vous à la question 1.
 
