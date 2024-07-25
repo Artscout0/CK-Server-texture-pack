@@ -59,6 +59,7 @@
 		{"predicate": {"custom_model_data":53}, "model": "item/models/potted_tall_sakura"},
 		{"predicate": {"custom_model_data":54}, "model": "item/models/radio"},
 		{"predicate": {"custom_model_data":55}, "model": "item/models/trash_can"},
-		{"predicate": {"custom_model_data":56}, "model": "item/models/wine_basket"}
+		{"predicate": {"custom_model_data":56}, "model": "item/models/wine_basket"},
+		{"predicate": {"custom_model_data":57}, "model": "item/models/bench"}
 	]
 }
