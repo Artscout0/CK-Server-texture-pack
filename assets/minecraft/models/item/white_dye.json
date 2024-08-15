@@ -47,6 +47,10 @@
 		{"predicate": {"custom_model_data":41}, "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_white"},
 		{"predicate": {"custom_model_data":42}, "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_white"},
 		{"predicate": {"custom_model_data":43}, "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_yellow"},
-		{"predicate": {"custom_model_data":44}, "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_yellow"}
+		{"predicate": {"custom_model_data":44}, "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_yellow"},
+		{"predicate": {"custom_model_data":45}, "model": "item/entity_models/copper_golem/copper_golem_pose_4"},
+		{"predicate": {"custom_model_data":46}, "model": "item/entity_models/copper_golem/exposed_copper_golem_pose_4"},
+		{"predicate": {"custom_model_data":47}, "model": "item/entity_models/copper_golem/weathered_copper_golem_pose_4"},
+		{"predicate": {"custom_model_data":48}, "model": "item/entity_models/copper_golem/oxidized_copper_golem_pose_4"}
 	]
 }
