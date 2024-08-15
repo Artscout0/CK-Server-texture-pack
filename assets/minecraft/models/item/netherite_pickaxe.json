@@ -4,7 +4,7 @@
       "layer0": "minecraft:item/netherite_pickaxe"
     },
       "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/models/Crystyl Crusher"}
+        {"predicate": {"custom_model_data":1}, "model": "item/models/Crystyl_Crusher"}
       ]
   }
   
