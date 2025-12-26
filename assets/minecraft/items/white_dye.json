@@ -1,0 +1,348 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/copper_golem_pose_1"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/copper_golem_pose_2"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/copper_golem_pose_3"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/exposed_copper_golem_pose_1"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/exposed_copper_golem_pose_2"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/exposed_copper_golem_pose_3"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/weathered_copper_golem_pose_1"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/weathered_copper_golem_pose_2"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/weathered_copper_golem_pose_3"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/oxidized_copper_golem_pose_1"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/oxidized_copper_golem_pose_2"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/oxidized_copper_golem_pose_3"
+        }
+      },
+      {
+        "threshold": 13,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_red"
+        }
+      },
+      {
+        "threshold": 14,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_red"
+        }
+      },
+      {
+        "threshold": 15,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_black"
+        }
+      },
+      {
+        "threshold": 16,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_black"
+        }
+      },
+      {
+        "threshold": 17,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_blue"
+        }
+      },
+      {
+        "threshold": 18,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_blue"
+        }
+      },
+      {
+        "threshold": 19,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_brown"
+        }
+      },
+      {
+        "threshold": 20,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_brown"
+        }
+      },
+      {
+        "threshold": 21,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_cyan"
+        }
+      },
+      {
+        "threshold": 22,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_cyan"
+        }
+      },
+      {
+        "threshold": 23,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_gray"
+        }
+      },
+      {
+        "threshold": 24,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_gray"
+        }
+      },
+      {
+        "threshold": 25,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_green"
+        }
+      },
+      {
+        "threshold": 26,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_green"
+        }
+      },
+      {
+        "threshold": 27,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_light_blue"
+        }
+      },
+      {
+        "threshold": 28,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_light_blue"
+        }
+      },
+      {
+        "threshold": 29,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_light_gray"
+        }
+      },
+      {
+        "threshold": 30,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_light_gray"
+        }
+      },
+      {
+        "threshold": 31,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_lime"
+        }
+      },
+      {
+        "threshold": 32,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_lime"
+        }
+      },
+      {
+        "threshold": 33,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_magenta"
+        }
+      },
+      {
+        "threshold": 34,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_magenta"
+        }
+      },
+      {
+        "threshold": 35,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_orange"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_orange"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_pink"
+        }
+      },
+      {
+        "threshold": 38,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_pink"
+        }
+      },
+      {
+        "threshold": 39,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_purple"
+        }
+      },
+      {
+        "threshold": 40,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_purple"
+        }
+      },
+      {
+        "threshold": 41,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_white"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_white"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_1_yellow"
+        }
+      },
+      {
+        "threshold": 44,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/tuff_golem/tuff_golem_pose_2_yellow"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/copper_golem_pose_4"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/exposed_copper_golem_pose_4"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/weathered_copper_golem_pose_4"
+        }
+      },
+      {
+        "threshold": 48,
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/entity_models/copper_golem/oxidized_copper_golem_pose_4"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "item/white_dye"
+    }
+  }
+}
