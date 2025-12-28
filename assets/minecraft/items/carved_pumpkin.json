@@ -7,322 +7,322 @@
         "threshold": 1,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/pizza_sign"
+          "model": "item/not_models/pizza_sign"
         }
       },
       {
         "threshold": 2,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/honey_glazed_ham"
+          "model": "item/not_models/honey_glazed_ham"
         }
       },
       {
         "threshold": 3,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/skillet"
+          "model": "item/not_models/skillet"
         }
       },
       {
         "threshold": 4,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/pizza_full"
+          "model": "item/not_models/pizza_full"
         }
       },
       {
         "threshold": 5,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/cooking_pot"
+          "model": "item/not_models/cooking_pot"
         }
       },
       {
         "threshold": 6,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/baguette"
+          "model": "item/not_models/baguette"
         }
       },
       {
         "threshold": 7,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/braided_bread"
+          "model": "item/not_models/braided_bread"
         }
       },
       {
         "threshold": 8,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/bread"
+          "model": "item/not_models/bread"
         }
       },
       {
         "threshold": 9,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/bun"
+          "model": "item/not_models/bun"
         }
       },
       {
         "threshold": 10,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/cake_stand"
+          "model": "item/not_models/cake_stand"
         }
       },
       {
         "threshold": 11,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/strawberry_cake"
+          "model": "item/not_models/strawberry_cake"
         }
       },
       {
         "threshold": 12,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/sign1"
+          "model": "item/not_models/sign1"
         }
       },
       {
         "threshold": 13,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/sign25"
+          "model": "item/not_models/sign25"
         }
       },
       {
         "threshold": 14,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/sign50"
+          "model": "item/not_models/sign50"
         }
       },
       {
         "threshold": 15,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/sign75"
+          "model": "item/not_models/sign75"
         }
       },
       {
         "threshold": 16,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/sign100"
+          "model": "item/not_models/sign100"
         }
       },
       {
         "threshold": 17,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/apple_wine"
+          "model": "item/not_models/apple_wine"
         }
       },
       {
         "threshold": 18,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/goat_trophy"
+          "model": "item/not_models/goat_trophy"
         }
       },
       {
         "threshold": 19,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/kelp_cider"
+          "model": "item/not_models/kelp_cider"
         }
       },
       {
         "threshold": 20,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/pufferfish_trophy"
+          "model": "item/not_models/pufferfish_trophy"
         }
       },
       {
         "threshold": 21,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/red_wine"
+          "model": "item/not_models/red_wine"
         }
       },
       {
         "threshold": 22,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/salmon_trophy"
+          "model": "item/not_models/salmon_trophy"
         }
       },
       {
         "threshold": 23,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/street_sign"
+          "model": "item/not_models/street_sign"
         }
       },
       {
         "threshold": 24,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/tropical_fish_trophy"
+          "model": "item/not_models/tropical_fish_trophy"
         }
       },
       {
         "threshold": 25,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/book_enchanted"
+          "model": "item/not_models/book_enchanted"
         }
       },
       {
         "threshold": 26,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/butterfly_blue"
+          "model": "item/not_models/butterfly_blue"
         }
       },
       {
         "threshold": 27,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/butterfly_magenta"
+          "model": "item/not_models/butterfly_magenta"
         }
       },
       {
         "threshold": 28,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/butterfly_red"
+          "model": "item/not_models/butterfly_red"
         }
       },
       {
         "threshold": 29,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/coffee_machine"
+          "model": "item/not_models/coffee_machine"
         }
       },
       {
         "threshold": 30,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/flytrap"
+          "model": "item/not_models/flytrap"
         }
       },
       {
         "threshold": 31,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/globe_stand"
+          "model": "item/not_models/globe_stand"
         }
       },
       {
         "threshold": 32,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/hanging_blue_tulip"
+          "model": "item/not_models/hanging_blue_tulip"
         }
       },
       {
         "threshold": 33,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/hanging_oak"
+          "model": "item/not_models/hanging_oak"
         }
       },
       {
         "threshold": 34,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/hanging_pink_tulip"
+          "model": "item/not_models/hanging_pink_tulip"
         }
       },
       {
         "threshold": 35,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/hanging_red_tulip"
+          "model": "item/not_models/hanging_red_tulip"
         }
       },
       {
         "threshold": 36,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/hanging_white_tulip"
+          "model": "item/not_models/hanging_white_tulip"
         }
       },
       {
         "threshold": 37,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/old_tv"
+          "model": "item/not_models/old_tv"
         }
       },
       {
         "threshold": 38,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/potted_cactus"
+          "model": "item/not_models/potted_cactus"
         }
       },
       {
         "threshold": 39,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/potted_lycoris"
+          "model": "item/not_models/potted_lycoris"
         }
       },
       {
         "threshold": 40,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/potted_tall_maple"
+          "model": "item/not_models/potted_tall_maple"
         }
       },
       {
         "threshold": 41,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/potted_tall_orchid"
+          "model": "item/not_models/potted_tall_orchid"
         }
       },
       {
         "threshold": 42,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/potted_tall_sakura"
+          "model": "item/not_models/potted_tall_sakura"
         }
       },
       {
         "threshold": 43,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/radio"
+          "model": "item/not_models/radio"
         }
       },
       {
         "threshold": 44,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/trash_can"
+          "model": "item/not_models/trash_can"
         }
       },
       {
         "threshold": 45,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/wine_basket"
+          "model": "item/not_models/wine_basket"
         }
       },
       {
         "threshold": 46,
         "model": {
           "type": "minecraft:model",
-          "model": "item/models/gray_tricorn"
+          "model": "item/not_models/gray_tricorn"
         }
       }
     ],

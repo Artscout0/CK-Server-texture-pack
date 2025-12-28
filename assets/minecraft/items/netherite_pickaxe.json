@@ -3,13 +3,7 @@
     "type": "minecraft:range_dispatch",
     "property": "minecraft:custom_model_data",
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "minecraft:model",
-          "model": "item/models/Crystyl_Crusher"
-        }
-      }
+
     ],
     "fallback": {
       "type": "minecraft:model",

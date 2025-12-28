@@ -1,19 +1,13 @@
 {
   "model": {
     "type": "minecraft:range_dispatch",
-    "property": "minecraft:custom_model_data",
+    "property": "custom_model_data",
     "entries": [
-      {
-        "threshold": 1,
-        "model": {
-          "type": "minecraft:model",
-          "model": "item/models/Murasama"
-        }
-      }
+
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "item/netherite_sword"
+      "model": "minecraft:item/netherite_sword"
     }
   }
 }
