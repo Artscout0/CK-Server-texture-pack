@@ -36,7 +36,7 @@ Remplacez XX par un nombre et YY par le nom du modèle. Exemple :
 }
 ```
 
-Cela fera en sorte que le 5ème modèle personnalisé pour la teinture verte sera le modèle "hoglin_trophy".
+Cela fera en sorte que le 1er modèle personnalisé pour l'epee en netherite sera le modèle "Murasama".
 ***N'OUBLIEZ PAS D'AJOUTER UNE VIRGULE À LA FIN DE LA LIGNE PRÉCÉDENTE !***
 
 Si vous souhaitez rendre votre modèle personnalisé portable par un joueur, ajoutez-le dans `carved_pumpkin.json` à la place.
